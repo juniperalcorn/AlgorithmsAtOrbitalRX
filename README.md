@@ -22,6 +22,7 @@ This repo is homebase, with the problems for each meetup in dated directories. B
 - [Technical interview skills](https://www.fullstackacademy.com/blog/how-to-ace-a-technical-interview-reacto)
 - [Technical interview questions](http://katemats.com/interview-questions/)
 
+## Organizer Information
 ### Women Who Code Raleigh Durham
 For the most up-to-date information on our current events (including study groups and social gatherings), check our page on Meetup.
 [Meetup](https://www.meetup.com/Women-Who-Code-Raleigh-Durham/)
