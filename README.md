@@ -6,6 +6,11 @@ Beginners Welcome! If you want to attend but aren’t sure where to start, we wi
 
 This repo is homebase, with the problems for each meetup in dated directories. Below, find more resources on algorithms, problem solving, or the inspiration for this meetup!
 
+## Virtual Whiteboarding Resources
+[Repl.it](https://repl.it/~)
+[Code Sandbox](https://codesandbox.io/index2)
+[Compile Java](https://www.compilejava.net/)
+
 ## Resources
 ### Algorithms
 [Algorithms in JavaScript](https://medium.com/siliconwat/algorithms-in-javascript-b0bed68f4038)
