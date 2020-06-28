@@ -6,11 +6,11 @@ The challenge is the twist the string of cubes into a complete 3 x 3 x 3 cube.
 
 Some of the small cubes are threaded straight through the centre. Others are threaded at a right-angle - this allows the solver to change direction.
 
-![Image of cube]
-(../Diaggrams/snake1.png)
+![Image of cube](/Diagrams/snake1.png)
 
-![Image of Flattened Cube]
-(../Diagrams/snake02.png)
+Flattened out, the string of cubes might look like this:
+
+![Image of Flattened Cube](/Diagrams/snake02.png)
 
 
 We describe the configuration of the puzzle by a list of 0s and 1s where:
