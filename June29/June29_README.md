@@ -6,6 +6,7 @@ Theme: Recursion!
 2. Reverse String
 3. Reconstruct Itinerary
 4. Reconstruct Digits from Scrambled String
+5. Snake Cube
 
 A classic recursion problem:
 - Recursive Factorial
