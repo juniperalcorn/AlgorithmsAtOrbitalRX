@@ -10,7 +10,7 @@ Some of the small cubes are threaded straight through the centre. Others are thr
 
 Flattened out, the string of cubes might look like this:
 
-![Image of Flattened Cube](/Diagrams/snake02.png)
+![Image of Flattened Cube](/Diagrams/snake02.gif)
 
 
 We describe the configuration of the puzzle by a list of 0s and 1s where:
