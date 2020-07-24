@@ -10,6 +10,7 @@ This repo is homebase, with the problems for each meetup in dated directories. B
 - [Repl.it](https://repl.it/~)
 - [Code Sandbox](https://codesandbox.io/index2)
 - [Compile Java](https://www.compilejava.net/)
+- [VSCode Live Share](https://docs.microsoft.com/en-us/visualstudio/liveshare/quickstart/share) (extension for VSCode)
 
 ## Resources
 ### Algorithms
