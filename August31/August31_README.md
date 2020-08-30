@@ -4,10 +4,12 @@ The theme this month is Linked Lists. Some information on LinkedLists here:
 
 [What is  a linked list?](https://www.interviewbit.com/courses/programming/topics/linked-lists/#:~:text=A%20linked%20list%20is%20a,has%20a%20reference%20to%20null.)
 
-```Examples```
-[Linked lists in Python](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
-[Linked lists in JavaScript](https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/)
-[Linked lists in Java](https://www.softwaretestinghelp.com/linked-list-in-java/)
+### Examples
+- [Linked lists in Python](https://www.tutorialspoint.com/python_data_structure/python_linked_lists.htm)
+- [Linked lists in JavaScript](https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/)
+- [Linked lists in Java](https://www.softwaretestinghelp.com/linked-list-in-java/)
+
+## Linked List Problems
 
 1. [Reverse a singly linked list](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/ReverseLinkedList.md)
 
@@ -17,7 +19,7 @@ The theme this month is Linked Lists. Some information on LinkedLists here:
 
 4. [Remove Nth Node From End of List](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/RemoveNode.md)
 
-And some good old sorting algorithms if Linked Lists aren't for you:
+## Sorting Algorithms
 
 1. [Count Inversions In An Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/CountInversions.md)
 
