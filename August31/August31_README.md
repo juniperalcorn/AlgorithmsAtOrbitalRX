@@ -9,20 +9,20 @@ The theme this month is Linked Lists. Some information on LinkedLists here:
 [Linked lists in JavaScript](https://humanwhocodes.com/blog/2019/01/computer-science-in-javascript-linked-list/)
 [Linked lists in Java](https://www.softwaretestinghelp.com/linked-list-in-java/)
 
-1. [Reverse a singly linked list]()
+1. [Reverse a singly linked list](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/ReverseLinkedList.md)
 
-2. [Convert a linked list to string]()
+2. [Convert a linked list to string](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/ConvertToString.md)
 
-3. [Merge two sorted linked lists]()
+3. [Merge two sorted linked lists](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/MergeSortedLists.md)
 
-4. [Remove Nth Node From End of List]()
+4. [Remove Nth Node From End of List](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/RemoveNode.md)
 
 And some good old sorting algorithms if Linked Lists aren't for you:
 
-1. [Count Inversions In An Array]()
+1. [Count Inversions In An Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/CountInversions.md)
 
-2. [Squares of a Sorted Array]()
+2. [Squares of a Sorted Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/SquaresSorted.md)
 
-3. [Difference of Two]()
+3. [Difference of Two](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/DifferenceofTwo.md)
 
 
