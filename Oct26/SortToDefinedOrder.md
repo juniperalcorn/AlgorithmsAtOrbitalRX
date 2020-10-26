@@ -2,7 +2,7 @@
 
 Given two arrays, an unsorted array and a reference array, reorder the elements of the first array according to the order defined in the reference array. Return the first array, sorted.
 
-If the unsorted array contains elements that are not in the reference array, append them to the sorted array in the order they appeared. Elements in the reference array do not necessarily need to appear in the unsorted array.
+If the unsorted array contains elements that are not in the reference array, append them to the sorted array grouped by value in ascending order. Elements in the reference array do not necessarily need to appear in the unsorted array.
 
 Examples: 
 ```
@@ -16,7 +16,7 @@ Input:
 unsorted = ['f', 'm', 'l', 'o', 'm', 'g']
 reference = ['o', 'm', 'l', 'g', 'e']
 
-Output: ['o', 'm', 'm', 'l', 'g', 'f']
+Output: ['o', 'm', 'm', 'f', 'g', 'l']
 ```
 
 Source: [Techie Delight](https://www.techiedelight.com/custom-sort-sort-elements-array-order-elements-defined-second-array/)
