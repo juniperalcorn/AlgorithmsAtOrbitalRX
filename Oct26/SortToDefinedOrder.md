@@ -16,7 +16,7 @@ Input:
 unsorted = ['f', 'm', 'l', 'o', 'm', 'g']
 reference = ['o', 'm', 'l', 'g', 'e']
 
-Output: ['o', 'm', 'm', 'f', 'g', 'l']
+Output: ['o', 'm', 'm', 'l', 'g', 'f']
 ```
 
 Source: [Techie Delight](https://www.techiedelight.com/custom-sort-sort-elements-array-order-elements-defined-second-array/)
