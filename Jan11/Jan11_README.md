@@ -13,18 +13,18 @@ The theme this month is Linked Lists. Some information on LinkedLists here:
 
 ## Linked List Problems
 
-1. [Reverse a singly linked list](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/ReverseLinkedList.md)
+1. [Reverse a singly linked list](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/ReverseLinkedList.md)
 
-2. [Convert a linked list to string](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/ConvertToString.md)
+2. [Convert a linked list to string](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/ConvertToString.md)
 
-3. [Merge two sorted linked lists](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/MergeSortedLists.md)
+3. [Merge two sorted linked lists](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/MergeSortedLists.md)
 
-4. [Remove Nth Node From End of List](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/RemoveNode.md)
+4. [Remove Nth Node From End of List](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/RemoveNode.md)
 
 ## Sorting Algorithms
 
-1. [Count Inversions In An Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/CountInversions.md)
+1. [Count Inversions In An Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/CountInversions.md)
 
-2. [Squares of a Sorted Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/SquaresSorted.md)
+2. [Squares of a Sorted Array](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/SquaresSorted.md)
 
-3. [Difference of Two](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/August31/DifferenceofTwo.md)
+3. [Difference of Two](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Jan11/DifferenceofTwo.md)
