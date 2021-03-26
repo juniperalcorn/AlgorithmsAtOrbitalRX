@@ -1,0 +1,5 @@
+1. [Billiards Pyramid]()
+2. [Sums of Parts]()
+3. [Counting Rings]()
+4. [Move 10 Forward]()
+5.[Climbing Stairs]()
