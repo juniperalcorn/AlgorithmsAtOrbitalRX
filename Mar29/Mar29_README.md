@@ -2,4 +2,4 @@
 2. [Sums of Parts](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Mar29/SumsOfParts.md)
 3. [Counting Rings](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Mar29/CountingRings.md)
 4. [Move 10 Forward](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Mar29/Move10Forward.md)
-5.[Climbing Stairs](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Mar29/ClimbingStairs.md)
+5. [Climbing Stairs](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/Mar29/ClimbingStairs.md)
