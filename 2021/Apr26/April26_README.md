@@ -10,13 +10,11 @@ Binary search tree information:
 - [Wikipedia-definition](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 Warmups:
-1. [Find the missing element]()
-2. [Array Manipulation]()
-3. [Search]()
+1. [Find the missing element](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/2021/Apr26/FindMissingElement.md)
+2. [Array Manipulation](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/2021/Apr26/ArrayManipulation.md)
+3. [Search](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/2021/Apr26/Search.md)
+
 Trees:
-4. [Compare Trees]()
-5. [Array to Tree]() 
-6. [Max Sum: Trees]()
-
-
-[Binary Search Tree]()
+4. [Compare Trees](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/2021/Apr26/CompareTrees.md)
+5. [Array to Tree](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/2021/Apr26/ArrayToTree.md) 
+6. [Max Sum: Trees](https://github.com/juniperalcorn/AlgorithmsAtOrbitalRX/blob/master/2021/Apr26/MaxSumTree.md)
